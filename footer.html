@@ -1,0 +1,117 @@
+       <div id="clearfooter"></div>
+        
+ <!-- end site wrapper--></div>       
+        <div id="footer">
+        	<div class="wrapper">
+        			<div class="third-column">
+        				<div id="recent-tweet">
+        					<a class="twitter-timeline" href="https://twitter.com/michquidditch" data-widget-id="494957464807149570">Tweets by @michquidditch</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        				</div>
+        			
+        			<!-- end first third column--></div>
+        			
+        			<div class="third-column">
+        			<h2>SOCIAL NETWORKS</h2>
+        				<a href="https://www.facebook.com/pages/University-of-Michigan-Quidditch-Team/292348147453571" target="_blank"><div id="fb"></div></a>
+        				<a href="https://twitter.com/MichQuidditch" target="_blank"><div id="tw"></div></a>
+        				<a href="https://instagram.com/michiganquidditch" target="_blank"><div id="insta"></div></a>
+        			
+        			<h2>CONTACT US</h2>
+        				<a id="contact-email" href="mailto:michiganquidditch@gmail.com">michiganquidditch@gmail.com</a>
+        			<!-- end first third column--></div>
+        		
+        			<div class="third-column">
+        			<img id="goals" src="img/goals.png">
+        			<!-- end first third column--></div>
+        			
+        			
+        	<!-- end wrapper--></div>
+        	<div id="credit">
+        	Copyright 2012 Michigan Quidditch. Web design by <a href="http://www.evagiselle.com">Eva Giselle</a>
+        	</div>
+        <!-- end footer--></div>
+        
+        
+        
+        
+        
+        <div id="hidden">
+        <img src="img/blue-button-hover.png">
+        <img src="img/donate-hover.png">
+        <img src="img/fb-hover.png">
+        <img src="img/twitter-hover.png">
+        </div>
+        
+	
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+        <script src="js/jquery.min.tweet.js"></script>
+        <script src="js/tweet.js"></script>
+        <script src="js/basic-jquery-slider.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.0.min.js"><\/script>')</script>
+        <link rel='stylesheet' type='text/css' href='fullcalendar/fullcalendar.css' />
+        <link rel='stylesheet' type='text/css' href='fullcalendar/fullcalendar.print.css' media='print' />
+        <script type='text/javascript' src='js/jquery-ui-1.8.23.custom.min.js'></script>
+        <script type='text/javascript' src='fullcalendar/fullcalendar.min.js'></script>
+        <script type='text/javascript' src='fullcalendar/gcal.js'></script>
+        <script type='text/javascript'>
+        
+        	$(document).ready(function() {
+        	
+        		$('#calendar').fullCalendar({
+        		
+        			// US Holidays
+        			events: 'https://www.google.com/calendar/feeds/michiganquidditch%40gmail.com/public/basic',
+        			
+        			eventClick: function(event) {
+        				// opens events in a popup window
+        				window.open(event.url, 'gcalevent', 'width=700,height=600');
+        				return false;
+        			},
+        			
+        			loading: function(bool) {
+        				if (bool) {
+        					$('#loading').show();
+        				}else{
+        					$('#loading').hide();
+        				}
+        			}
+        			
+        		});
+        		
+        	});
+        
+        </script>
+        
+
+        <script src="js/main.js"></script>
+		<script>
+		  $(document).ready(function() {
+		    
+		    $('#slider').bjqs({
+		      'animation' : 'fade',
+		      'width' : 689,
+		      'height' : 497,
+		      'automatic': true,
+		      'animationDuration' : 700,
+		      'showMarkers' : false,
+		      'showControls': false,
+		      'centerControls' :false,
+		      'useCaptions' : false,
+		      'keyboardNav' : false,
+		      'rotationSpeed': 4000
+		    });
+		    
+		  });
+		</script>
+		
+		
+		
+        <script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+    </body>
+</html>

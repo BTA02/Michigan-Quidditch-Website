@@ -1,0 +1,40 @@
+<!--#include virtual="header.html" -->
+
+ <!-- end header.html-->
+ <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21275241-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+      
+         <div id="page-header"><img src="img/contact-header.png"></div>
+         
+         
+          <div id="center-column">
+         Do you have a general inquiry, question, or comment? Shoot us an owl (or an e-mail, as muggles call them) and we’ll get back to you. This is also the place to challenge us to a match!        
+       
+         <br/><br/>
+         <h2>Anything and Everyone</h2>
+         <a href="mailto:michiganquidditch@gmail.com">michiganquidditch@gmail.com</a>
+         
+         <!-- end centercolumn--></div>
+         
+              
+        </div><!-- end contentarea--></div>
+        
+
+        <!-- end wrapper--></div>
+        
+
+
+
+<!-- begin footer.html-->
+<!--#include virtual="footer.html" -->

@@ -1,0 +1,404 @@
+<!--#include virtual="header.html" -->
+
+ <!-- end header.html-->
+ <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21275241-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+  
+  	<br><br>
+  	
+  	<h1> Meet the players </h1> 
+  	<h3 text-align="center" font-size="2em"> All the personalities who make up our team </h3>
+ 	<h3 align="middle"><a href="aboutAlumni.html"> Click here to see the alumni page!</a></h3>	
+  		<br>
+  		<img src="../img/team15_16.jpg" style="border:3px solid black">
+  		<br>
+  		<p> Head Captains: Matthew Oppenlander and Zachary Fogel <br> Beater Captain: Lisa Lavelanet <br> Chaser Captain: Matthew Oates <br> Seeker Captain: Benjamin Griessmann</p>
+ 	<table class="about">
+ 	<tr>
+ 		<th> Number </th>
+ 		<th> Name </th>
+ 		<th> Nickname </th>
+ 		<th> Position </th>
+ 		<th> Year </th>
+ 		<th> Major(s) </th>
+ 		<th> Hometown </th>
+ 		<th> Fun Fact </th>
+ 	</tr> 
+ 	<tr>
+ 		<td> 00 </td>
+ 		<td> Janie Brown </td>
+ 		<td> Downtown Janie Brown </td>
+ 		<td> Support Staff </td>
+ 		<td> Senior </td>
+ 		<td> Biopsychology, Cognition, & Neuroscience and German </td>
+ 		<td> Lutherville, MD </td>
+ 		<td> Old Bay flows through my veins. </td>
+ 	</tr>  
+ 	<tr>
+ 		<td> 0 </td>
+ 		<td> Richard Nguyen </td>
+ 		<td> E.R. </td>
+ 		<td> Beater </td>
+ 		<td> Sophomore </td>
+ 		<td> Biochemistry </td>
+ 		<td> Wayne, MI </td>
+ 		<td> I get injured constantly. </td>
+ 	</tr>  	   
+ 	<tr>
+ 	   	<td> 2 </td>
+ 		<td> Andrew Axtell </td>
+ 		<td> Drewbie </td>
+ 		<td> Chaser </td>
+ 		<td> Alum </td>
+ 		<td> Computer Science </td>
+ 		<td> East Grand Rapids, MI </td>
+ 		<td> How much milk we talkin'? </td>
+ 	</tr> 
+	<tr>
+	        <td> 3 </td>
+ 		<td> Benjamin Griessmann </td>
+ 		<td> BenG </td>
+ 		<td> Seeker </td>
+ 		<td> Alum </td>
+ 		<td> Chemical Engineering </td>
+ 		<td> Orchard Lake, MI </td>
+ 		<td> The <a href="https://twitter.com/michquidditch/status/494937043248898049/photo/1">face of michigan quidditch twitter </a>for over a week </td>
+ 	</tr> 
+	<tr>
+	       <td> 4 </td>
+ 		<td> Dylan Schepers </td>
+		<td> Weasley </td>
+ 		<td> Chaser & Beater </td>
+ 		<td> Alum </td>
+ 		<td> Politcal Science </td>
+ 		<td> Chelsea, MI </td>
+ 		<td>  </td>
+ 	</tr>
+	<tr> 
+	        <td> 5 </td>
+ 		<td> Madeline Novack </td>
+ 		<td> Awkward Maddy-lion </td>
+ 		<td> Chaser </td>
+ 		<td> Alum </td>
+ 		<td> Biology </td>
+ 		<td> Galion, OH </td>
+ 		<td> Soon I wil begin all my sentences with, "When I was in France..." </td>
+ 	</tr>	
+ 	<tr>
+ 		<td> 6 </td>
+ 		<td> Micaiah Hanke </td>
+		<td> Mikey </td>
+ 		<td> Chaser, Keeper </td>
+ 		<td> Junior </td>
+ 		<td> Aerospace Engineering </td>
+ 		<td> Lake Orion, MI </td>
+ 		<td> I'm absolutely obsessed with <a href="http://www.punoftheday.com/cgi-bin/disppuns.pl?ord=F">puns</a>. </td>
+ 	</tr>  
+	<tr>
+ 		<td> 7 </td>
+ 		<td> Sarah Costello </td>
+		<td>  </td>
+ 		<td> Beater </td>
+ 		<td> Sophomore </td>
+ 		<td> German </td>
+ 		<td> Rochester Hills, MI </td>
+ 		<td> I am the pioneer in the art of the kazookulele. </td>
+ 	</tr>
+	<tr>
+	        <td> 7 </td>
+ 		<td> Sam Whaley </td>
+		<td> Swhaley </td>
+ 		<td> Chaser </td>
+ 		<td> Alum </td>
+ 		<td> International Studies: Global Health, Spanish, and French  </td>
+ 		<td> Perry, MI </td>
+ 		<td> "You must be from Paris because you're driving me in-Seine" </td>
+ 	</tr>
+ 	<tr>
+ 		<td> 9 </td>
+ 		<td> Zach Fogel </td>
+		<td> Headshot Fogel </td>
+ 		<td> Chaser </td>
+ 		<td> Junior </td>
+ 		<td> Ecology &Evolutionary Biology </td>
+ 		<td> Ann Arbor, MI </td>
+ 		<td> I have a great personality. </td>
+ 	</tr>     
+ 	<tr>
+ 		<td> 10 </td>
+ 		<td> Bobby Huddleston </td>
+		<td> Booby </td>
+ 		<td> Keeper </td>
+ 		<td> Junior </td>
+ 		<td> Computer Engineering </td>
+ 		<td> Leesburg, VA </td>
+ 		<td> My goal in life is to successfully start a slow clap. </td>
+ 	</tr>  
+ 	 <tr>
+ 	       <td> 11 </td>
+ 		<td> Meaghan O'Connell </td>
+		<td> Meeeeeghan </td>
+ 		<td> Chaser </td>
+ 		<td> Alum </td>
+ 		<td> Biopsychology, Cognition, & Neuroscience and Spanish </td>
+ 		<td> Needham, MA </td>
+ 		<td> I get to class by driving my duck boat down the Huron River and down State Street whilst eating peanut butter for breakfast. </td>
+ 	</tr> 
+ 	 <tr>
+		<td> 12 </td>
+ 		<td> Cheyenne Paulson </td>
+		<td>  </td>
+ 		<td> Chaser </td>
+ 		<td> Junior </td>
+ 		<td> Classical Archeology </td>
+ 		<td> Belding, MI </td>
+ 		<td> My favorite food is Gelato! </td>
+ 	</tr>
+	<tr>
+		<td> 13 </td>
+ 		<td> Daniel Yuan </td>
+		<td>  </td>
+ 		<td> Chaser </td>
+ 		<td> Sophomore </td>
+ 		<td> Mechanical Engineering </td>
+ 		<td> Ann Arbor, MI </td>
+ 		<td> I swing bright glowsticks tied to strings on stages with a group of people. </td>
+ 	</tr>   
+ 	<tr>
+ 		<td> 15 </td>
+ 		<td> Sydney Grant </td>
+		<td> Squidney </td>
+ 		<td> Support Staff </td>
+ 		<td> Senior </td>
+ 		<td> Psychology and Spanish </td>
+ 		<td> Lafayette, LA </td>
+ 		<td> Did you know I'm from Louisiana? Apparently I don't mention it enough. Also where is the nearest Chik-fil-a? </td>
+ 	</tr> 
+	<tr>
+	        <td> 16 </td>
+ 		<td> Lisa Lavelanet </td>
+		<td> </td>
+ 		<td> Beater </td>
+ 		<td> Alum </td>
+ 		<td> Neuroscience </td>
+ 		<td> Troy, MI </td>
+ 		<td> I am <a href="https://www.youtube.com/watch?feature=youtu.be&v=xhu9fHoXGJ0&app=desktop">rapper Jean LaFoot</a>'s biggest fan. </td>
+ 	</tr>
+	<tr>
+ 		<td> 18 </td>
+ 		<td> Landon Kartes </td>
+		<td>  </td>
+ 		<td> Chaser </td>
+ 		<td> Junior </td>
+ 		<td> Computer Science </td>
+ 		<td> Boyne City, MI </td>
+ 		<td> I could ski when I was 3 years old. </td>
+ 	</tr>  
+ 	<tr>
+ 		<td> 21 </td>
+ 		<td> Kailey Danaher </td>
+		<td> </td>
+ 		<td> Beater </td>
+ 		<td> Sophomore </td>
+ 		<td> Athletic Training  </td>
+ 		<td> Northville, MI </td>
+ 		<td> I'm a (kidney) stoner </td>
+ 	</tr>
+  	<tr>
+ 		<td> 21 </td>
+ 		<td> Christina Oh </td>
+		<td> </td>
+ 		<td> Support Staff </td>
+ 		<td> Super Senior </td>
+ 		<td> Screen Arts & Culture and Spanish  </td>
+ 		<td> Rochester Hills, MI </td>
+ 		<td> I am absolutely terrified of ladybugs, and I wish I were kidding about that. </td>
+ 	</tr>
+ 	<tr>
+ 		<td> 22 </td>
+ 		<td> Matthew Oppenlander </td>
+		<td> Oppie </td>
+ 		<td> Chaser </td>
+ 		<td> Alum </td>
+ 		<td> Biopsychology, Cognition, & Neuroscience </td>
+ 		<td> Troy, MI </td>
+ 		<td> I once beat the all mighty Zeus in a thumb war on top of Mt. Olympus. </td>
+ 	</tr>    
+ 	<tr>
+ 		<td> 24 </td>
+ 		<td> Brad Whipple </td>
+		<td> Whipplenator </td>
+ 		<td> Chaser </td>
+ 		<td> Senior </td>
+ 		<td> Economics and Environment </td>
+ 		<td> Kildeer, IL </td>
+ 		<td> I once got two straight red cards, two games in a row. </td>
+ 	</tr>
+	<tr>
+	        <td> 25 </td>
+ 		<td> Zach Schepers </td>
+		<td> Weasley </td>
+ 		<td> Chaser & Beater </td>
+ 		<td> Alum </td>
+ 		<td> Biopsychology, Cognition, & Neuroscience </td>
+ 		<td> Chelsea, MI </td>
+ 		<td> "I play quidditch", "What?", "No we dont actually fly", "huh", "yes we use brooms and yes it's awesome" </td>
+ 	</tr>
+	<tr>
+ 		<td> 26 </td>
+ 		<td> Cameron Rubino </td>
+		<td> Cam </td>
+ 		<td> Keeper </td>
+ 		<td> Sophomore </td>
+ 		<td> Movement Science </td>
+ 		<td> Leonard, MI </td>
+ 		<td> I like pie. </td>
+ 	</tr> 
+ 	<tr>
+ 		<td> 32 </td>
+ 		<td> Darin Wong </td>
+		<td> Young Blood </td>
+ 		<td> Chaser/Seeker </td>
+ 		<td> Junior </td>
+ 		<td> Ecology & Environmental Biology </td>
+ 		<td> San Diego, CA </td>
+ 		<td> Spoken word artist, up-and-coming underground rapper </td>
+ 	</tr>
+ 	<tr>
+ 		<td> 33 </td>
+ 		<td> Jeremy Meeder </td>
+		<td>  </td>
+ 		<td> Beater </td>
+ 		<td> Junior </td>
+ 		<td> Chemistry </td>
+ 		<td> Lockport, IL </td>
+ 		<td> To change a shrink ray into a growth ray, simply set it to Wumbo.  </td>
+ 	</tr>     	
+ 	<tr>
+ 		<td> 34 </td>
+ 		<td> Laurel Fricker </td>
+		<td>  </td>
+ 		<td> Chaser </td>
+ 		<td> Senior </td>
+ 		<td> Classical Civilizations and German </td>
+ 		<td> West Lafayette, IN </td>
+ 		<td> I'll stop wearing black when they make a darker color.  </td>
+ 	</tr> 		
+ 	<tr>
+ 		<td> 36 </td>
+ 		<td> Sondra Halperin </td>
+		<td> Sondy </td>
+ 		<td> Beater </td>
+ 		<td> Junior </td>
+ 		<td> Program in the Environment </td>
+ 		<td> New York, NY </td>
+ 		<td> I'm one of the only people that Andrew Axtell greets enthusiastically. </td>
+ 	</tr> 
+ 	<tr>
+ 		<td> 39 </td>
+ 		<td> Hannah Katshir </td>
+		<td>  </td>
+ 		<td> Chaser </td>
+ 		<td> Junior </td>
+ 		<td> Biopsychology, Cognition, & Neuroscience and History </td>
+ 		<td> Camp Hill, PA </td>
+ 		<td> I am still getting over a deadly, 4 year case of the "Bieber Fever" (It may or may not have been replaced by the "One Direction Infection" and "5 Seconds of Sickness"...tbd).  </td>
+ 	</tr>  
+ 	<tr>
+ 		<td> 40 </td>
+ 		<td> Terra Schroeder </td>
+		<td> </td>
+ 		<td> Support Staff </td>
+ 		<td> Junior </td>
+ 		<td> International Studies and Political Science </td>
+ 		<td> Chester, CT </td>
+ 		<td> I have a habit of screaming at the TV when I watch my favorite TV shows.</td>
+ 	</tr>   
+ 	<tr>
+ 		<td> 55 </td>
+ 		<td> Daniel Tresnak </td>
+		<td> Shrine </td>
+ 		<td> Beater </td>
+ 		<td> Senior </td>
+ 		<td> Chemical Engineering </td>
+ 		<td> Royal Oak, MI </td>
+ 		<td> I can quote movies like a champ. </td>
+ 	</tr> 
+ 	<tr>
+ 		<td> 77 </td>
+ 		<td> Miranda St. Amour </td>
+		<td> St. Love </td>
+ 		<td> Chaser </td>
+ 		<td> Sophomore </td>
+ 		<td> Biomedical Engineering </td>
+ 		<td> New Lenox, IL </td>
+ 		<td> I was the Michigan Sports Karate black belt champion of 2006 and then decided to retire forever. </td>
+ 	</tr>
+ 	<tr>
+ 		<td> 77 </td>
+ 		<td> Alicia Mazurek </td>
+		<td>  </td>
+ 		<td> Beater </td>
+ 		<td> Senior </td>
+ 		<td> Biopsychology, Cognition, & Neuroscience </td>
+ 		<td> Fenton, MI </td>
+ 		<td> I play five instruments with relative proficiency. </td>
+ 	</tr>
+  	<tr>
+ 		<td> 93 </td>
+ 		<td> Matthew Oates </td>
+		<td> Moates </td>
+ 		<td> Keeper </td>
+ 		<td> Super Senior </td>
+ 		<td> Earth and Environmental Science </td>
+ 		<td> Midland, MI </td>
+ 		<td> I invented the piano key necktie and play a mean harmonica. </td>
+ 	</tr>
+  	<tr>
+ 		<td> 118 </td>
+ 		<td> Lauren Moehle </td>
+		<td>  </td>
+ 		<td> Chaser </td>
+ 		<td> Junior </td>
+ 		<td> Psychology and Communications </td>
+ 		<td> Edwardsville, IL </td>
+ 		<td> I've never had a slice of pizza. </td>
+ 	</tr>
+	<tr>
+ 		<td> 606 </td>
+ 		<td> Rene Ramirez </td>
+		<td>  </td>
+ 		<td> Chaser </td>
+ 		<td> Sophomore </td>
+ 		<td> Aerospace Engineering </td>
+ 		<td> Chicago, IL </td>
+ 		<td> My spirit animal is a Magikarp. </td>
+ 	</tr>
+   	<tr>
+ 		<td> 934 </td>
+ 		<td> Molly Force </td>
+		<td> Mollz </td>
+ 		<td> Chaser </td>
+ 		<td> Senior </td>
+ 		<td> English and Communications </td>
+ 		<td> Bloomfield Hills, MI </td>
+ 		<td> I'm a member of the Michigan Marching Band. </td>
+ 	</tr>
+ 	</table>
+ 
+
+ <br><br><br> <br><br><br>
+<!-- end wrapper--></div>  
+<!-- begin footer.html-->
+<!--#include virtual="footer.html" -->

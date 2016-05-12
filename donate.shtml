@@ -1,0 +1,51 @@
+<!--#include virtual="header.html" -->
+
+ <!-- end header.html-->
+ 
+ <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21275241-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+ 
+ <div id="page-header"><img src="img/donate-header.png"></div>
+ 
+ <div id="center-column">
+ <h2>WE RUN ON DONATIONS!</h2><br/>
+ Our Quidditch team wouldn't be possible without donations from ordinary (magical AND non-magical) folks like you. Please, chip in a knut or two so we can keep this club going!
+ <br/>
+ 
+  
+  
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+  
+  <button name="submit" id="bluebutton" type="submit" class="customButton">DONATE!</button>
+  
+  
+  </form>
+  
+  
+  
+ 
+ 
+ <img id="paypal" src="img/paypal.png">
+ <!-- end center-column--></div>
+ 
+ </div>
+       
+        <!-- end contentarea--></div>
+        <!-- end wrapper--></div>
+        
+
+
+
+<!-- begin footer.html-->
+<!--#include virtual="footer.html" -->

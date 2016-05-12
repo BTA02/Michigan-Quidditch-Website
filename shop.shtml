@@ -1,0 +1,69 @@
+<!--#include virtual="header.html" -->
+
+ <!-- end header.html-->
+ <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21275241-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+      
+         <div id="page-header"><img src="img/shop-header.png"></div>
+         
+         
+         <div id="shirt-column">
+        <img src="img/newshirt.png">       
+         <!-- end left-column--></div>
+         <div id="right-column">
+         <h2>MICHIGAN QUIDDITCH TEAM T-SHIRT and YULE BALL TICKETS</h2><br/>
+         
+         It's time to wear our team colors proudly by donning your Michigan Quidditch uniform shirt. The t-shirt is preshrunk cotton, unisex, and fits just like any standard t-shirt. <!-- An inventory list can be found <a href="bit.ly/quidditchshirts">here</a> .--> 
+	 <!-- <p> We've stopped selling shirts while we go through a management change. Keep checking here and we'll let you know when they're available again!</p> -->
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+<input type="hidden" name="cmd" value="_s-xclick">
+<table>
+<tr><td><input type="hidden" name="on0" value="Sizes">Sizes</td></tr><tr><td><select name="os0">
+	<option value="Youth Large">Youth Large $16.00 USD</option>
+	<option value="Small">Small $16.00 USD</option>
+	<option value="Medium">Medium $16.00 USD</option>
+	<option value="Large">Large $16.00 USD</option>
+	<option value="XXL">XXL $16.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+         
+         <!-- <br/>
+         <h2>OR… LIVE LOCALLY?</h2><br/>
+         If you're in the Ann Arbor area, email <a href="mailto:brownman@umich.edu">David</a> and we'll set up a meeting to make a handoff (at 10USD/shirt). There's no reaspon to pay the shipping and paypal fee if you can avoid it!<br/> -->
+	       
+         
+         <!-- end right-column--></div>
+        <br/><br/>
+              
+        </div><!-- end contentarea--></div>
+        
+
+        <!-- end wrapper--></div>
+        
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- begin footer.html-->
+<!--#include virtual="footer.html" -->

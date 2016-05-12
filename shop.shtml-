@@ -1,0 +1,73 @@
+<!--#include virtual="header.html" -->
+
+ <!-- end header.html-->
+ <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21275241-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+      
+         <div id="page-header"><img src="img/shop-header.png"></div>
+         
+         
+         <div id="shirt-column">
+        <img src="img/newshirt.png">       
+         <!-- end left-column--></div>
+         <div id="right-column">
+         <h2>MICHIGAN QUIDDITCH TEAM T-SHIRT and YULE BALL TICKETS</h2><br/>
+         
+         It's time to wear our team colors proudly by donning your Michigan Quidditch uniform shirt. The t-shirt is preshrunk cotton, unisex, and fits just like any standard t-shirt. <!-- An inventory list can be found <a href="bit.ly/quidditchshirts">here</a> .--> <b>NOTE</b> Presale has ended! If you still want to come, there are tickets at the door for $15! We hope to see you there! 
+        
+         
+         
+         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="AH8UDMRGJL3JC">
+<table>
+<tr><td><input type="hidden" name="on0" value="Sizes">Sizes</td></tr><tr><td><select name="os0">
+  <option value="YL">YL $16.00 USD</option>
+  <option value="S">S $16.00 USD</option>
+  <option value="M">M $16.00 USD</option>
+  <option value="L">L $16.00 USD</option>
+  <option value="XL">XL $16.00 USD</option>
+  <option value="XXL">XXL $16.00 USD</option>
+  <option value="Yule Ball">Yule Ball $13.00 USD</option>
+  
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+         
+         <br/>
+         <h2>OR… LIVE LOCALLY?</h2><br/>
+         If you're in the Ann Arbor area, email <a href="mailto:brownman@umich.edu">David</a> and we'll set up a meeting to make a handoff (at 10USD/shirt). There's no reaspon to pay the shipping and paypal fee if you can avoid it!<br/>
+         
+         
+         <!-- end right-column--></div>
+        <br/><br/>
+              
+        </div><!-- end contentarea--></div>
+        
+
+        <!-- end wrapper--></div>
+        
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- begin footer.html-->
+<!--#include virtual="footer.html" -->
