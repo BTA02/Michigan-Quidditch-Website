@@ -29,7 +29,7 @@
 		
 		<div id="welcome">
 		<img src="img/quidditchteam.png">
-		<p>Welcome to the Michigan Quidditch page! We began our team in the fall of 2010 based on the <a href="http://www.iqaquidditch.com"> IQA's</a> rules and have been hooked since.
+		<p>Welcome to the Michigan Quidditch page! We began our team in the fall of 2010 based on the <a href="http://www.usquidditch.com"> USQ's</a> rules and have been hooked since.
         <div id="facebook">
         	<h1>Like us on Facebook!</h1>
         	<div class="fb-like" data-href="https://www.facebook.com/pages/University-of-Michigan-Quidditch-Team/292348147453571" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
